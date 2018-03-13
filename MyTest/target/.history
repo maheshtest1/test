@@ -1,0 +1,5 @@
+set name := "MyTest"
+set version := "1.0"
+set scalaVersion := "2.11.7"
+session save
+exit
